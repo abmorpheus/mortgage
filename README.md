@@ -13,4 +13,5 @@ https://medium.com/analytics-vidhya/how-to-guide-on-exploratory-data-analysis-fo
 
 Approach <br />
 https://medium.com/analytics-vidhya/introduction-to-basic-statistical-approach-for-time-series-analysis-a6e24b2d93b9 <br />
-https://neptune.ai/blog/select-model-for-time-series-prediction-task
+https://neptune.ai/blog/select-model-for-time-series-prediction-task <br />
+https://github.com/disojn/Time-Series-EDA-and-Forecast/blob/master/Time%20Series-Exploratory%20Data%20Analysis%20%26%20Forecast.ipynb
