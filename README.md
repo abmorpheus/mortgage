@@ -10,3 +10,4 @@ https://sci-hub.se/10.3905/jsf.2014.19.4.052 <br />
 
 EDA <br />
 https://medium.com/analytics-vidhya/how-to-guide-on-exploratory-data-analysis-for-time-series-data-34250ff1d04f <br />
+https://medium.com/analytics-vidhya/introduction-to-basic-statistical-approach-for-time-series-analysis-a6e24b2d93b9 <br />
