@@ -1,0 +1,20 @@
+CREATE ENVIRONMENT
+1) goto that location
+2) conda create --prefix ./env pandas numpy
+
+ACTIVATE
+1) conda activate C:\Users\abhay\Desktop\test1\env
+
+INSTALL PACKAGE
+1) conda install jupyter
+
+DEACTIVATE ENVIRONMENT
+1) 	conda deactivate
+
+EXPORT YML FILE
+1) activate that environment
+2) conda env export > file_name.yml
+
+CREATE ENV USING YML
+1) goto base env
+2) conda env create --prefix ./env -f local_of_that_yml_file
